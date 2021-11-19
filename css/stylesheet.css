@@ -189,3 +189,16 @@ height: 40%;
     color: white;  
     font-size: 36px;
     }
+#not-found{
+    color: #5c5470;
+    font-family: "IBM Plex Mono";
+    text-align: right;
+    margin: 20px;
+}
+#not-found h1 , #not-found h2{
+    font-size: 100px;
+    font-family: "IBM Plex Mono";
+
+    /* color: #5c5470; */
+
+}
